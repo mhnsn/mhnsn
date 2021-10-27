@@ -19,7 +19,7 @@ I'm a full-stack embedded firmware engineer currently working at a startup in Pr
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logoColor=white&color=2bbc8a&link=https://duome.eu/mdhnsn)
 ![](https://img.shields.io/badge/Language-Portuguese-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Norwegian-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Afrikaans-informational?style=flat&logoColor=white&color=2bbc8a)
