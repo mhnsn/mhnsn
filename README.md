@@ -28,6 +28,7 @@ I'm a full-stack embedded firmware engineer currently working at a startup in Pr
  - Ethics
  - Language learning
  - Music production
+ - Woodworking
  - Spending time with my wife and kids
 
 ### 🧮Stats
