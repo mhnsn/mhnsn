@@ -24,12 +24,14 @@ I'm a full-stack embedded firmware engineer currently working at a startup in Pr
 ![](https://img.shields.io/badge/Language-Norwegian-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Afrikaans-informational?style=flat&logoColor=white&color=2bbc8a)
 
-### ✨Interests
+### ✨Interests and Passions
+ - Spending time with my wife and kids
  - Ethics
  - Language learning
  - Music production
  - Woodworking
- - Spending time with my wife and kids
+ - GTD
+ - Helping others learn
 
 ### 🧮Stats
 <a href="https://github.com/mhnsn/mhnsn">
