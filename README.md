@@ -1,5 +1,5 @@
 ### 👋Hi, I'm Mark 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMDavidHansen)
+![https://twitter.com/MDavidHansen](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMDavidHansen)
 
 I'm an embedded/full-stack engineer currently working at a startup in Provo, UT. I grew up in Ohio, Michigan, Illinois, and New Hampshire, and moved to Utah in 2008 to get my undergrad degree in Spanish. I'm fully bilingual and speak several additional languages. I'm currently also attending Utah Valley University to get my MCS, focusing on machine learning applications on embedded hardware.
 
