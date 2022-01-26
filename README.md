@@ -34,10 +34,10 @@ I'm an embedded/full-stack engineer currently working at a startup in Provo, UT.
  - GTD
  - Helping others learn
 
-### 🧮Stats
+<!--### 🧮Stats
 <a href="https://github.com/mhnsn/mhnsn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnsn&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/mhnsn/mhnsn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhnsn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mark's GitHub Stats" />
-</a>
+</a>-->
