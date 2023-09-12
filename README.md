@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/MDavidHansen?style=social)
 
 
-I'm an embedded/full-stack engineer currently working at a startup in Provo, UT. I grew up in Ohio, Michigan, Illinois, and New Hampshire, and moved to Utah in 2008 to get my undergrad degree in Spanish. I'm fully bilingual and speak several additional languages. I'm currently also attending Utah Valley University to get my MCS, focusing on machine learning applications on embedded hardware.
+I'm an embedded/full-stack engineer currently living in Lehi, Utah. I grew up in Ohio, Michigan, Illinois, and New Hampshire, and moved to Utah in 2008 to get my undergrad degree in Spanish. I'm fully bilingual and speak several additional languages. I'm currently also attending Utah Valley University to get my MCS, focusing on machine learning applications on embedded hardware.
 
 ### 📖Currently Reading 
  - The Butlerian Jihad, by Brian Herbert
@@ -26,18 +26,9 @@ I'm an embedded/full-stack engineer currently working at a startup in Provo, UT.
 ![](https://img.shields.io/badge/Language-Afrikaans-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ### ✨Interests and Passions
- - Spending time with my wife and kids
  - Ethics
- - Language learning
+ - My kids' current hobbies
  - Music production
  - Woodworking
  - GTD
  - Helping others learn
-
-<!--### 🧮Stats
-<a href="https://github.com/mhnsn/mhnsn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnsn&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/mhnsn/mhnsn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhnsn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mark's GitHub Stats" />
-</a>-->
