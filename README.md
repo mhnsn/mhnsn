@@ -1,6 +1,6 @@
 ### 👋Hi, I'm Mark 
 
-I'm an embedded/full-stack engineer currently living in Lehi, Utah. I grew up in Ohio, Michigan, Illinois, and New Hampshire, and moved to Utah in 2008 to get my undergrad degree in Spanish. I'm fully bilingual and speak several additional languages. I'm currently also attending Utah Valley University to get my MCS, focusing on machine learning applications on embedded hardware.
+I'm an embedded/full-stack engineer currently living in Lehi, Utah. I grew up in Ohio, Michigan, Illinois, and New Hampshire, and moved to Utah in 2008 to get my undergrad. I'm currently attending Utah Valley University to get my MCS while working full-time for ADT, focusing on machine learning applications on embedded hardware. I'm fully bilingual in Spanish, and speak several additional languages. 
 
 ### 📖Currently Reading 
  - The Butlerian Jihad, by Brian Herbert
