@@ -9,13 +9,16 @@ I'm an embedded/full-stack engineer currently living in Lehi, Utah. I grew up in
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Replit-informational?style=flat&logo=replit&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Editor-Cursor-informational?style=flat&logo=cursor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Segger-informational?style=flat&logo=segger&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logoColor=white&color=2bbc8a&link=https://duome.eu/mdhnsn)
@@ -28,5 +31,6 @@ I'm an embedded/full-stack engineer currently living in Lehi, Utah. I grew up in
  - My kids' current hobbies
  - Music production
  - Woodworking
+ - Thrifting
  - GTD
  - Helping others learn
