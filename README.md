@@ -1,36 +1,54 @@
-### 👋Hi, I'm Mark 
+# Hi, I’m Mark 👋
 
-I'm an embedded/full-stack engineer currently living in Lehi, Utah. I grew up in Ohio, Michigan, Illinois, and New Hampshire, and moved to Utah in 2008 to get my undergrad. I'm currently attending Utah Valley University to get my MCS while working full-time for ADT, focusing on machine learning applications on embedded hardware. I'm fully bilingual in Spanish, and speak several additional languages. 
+I’m an embedded and full-stack engineer based in Lehi, Utah. I build across the stack, from resource-constrained firmware to cloud-connected applications, with a particular interest in running machine-learning workloads on embedded hardware, and optimizing where the optimizing needs to happen.
 
-### 📖Currently Reading 
- - The Butlerian Jihad, by Brian Herbert
+I currently work at ADT while pursuing a Master of Computer Science at Utah Valley University.
 
-### 🤟Languages and Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+Beyond engineering, I’m bilingual in English and Spanish and enjoy studying Portuguese, Norwegian, Afrikaans, and Mandarin. I’m endlessly curious, happiest when building something, and always looking for opportunities to help others learn.
 
-![](https://img.shields.io/badge/Editor-Cursor-informational?style=flat&logo=cursor&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Segger-informational?style=flat&logo=segger&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+## What I work with 🛠️
 
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+**Embedded systems**
 
-![](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logoColor=white&color=2bbc8a&link=https://duome.eu/mdhnsn)
-![](https://img.shields.io/badge/Language-Portuguese-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Norwegian-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Afrikaans-informational?style=flat&logoColor=white&color=2bbc8a)
+![C](https://img.shields.io/badge/C-2bbc8a?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-2bbc8a?style=flat&logo=cplusplus&logoColor=white)
+![Buildroot](https://img.shields.io/badge/Buildroot-2bbc8a?style=flat&logo=linux&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-2bbc8a?style=flat&logo=cmake&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU_Make-2bbc8a?style=flat&logo=gnu&logoColor=white)
 
-### ✨Interests and Passions
- - Ethics
- - My kids' current hobbies
- - Music production
- - Woodworking
- - Thrifting
- - GTD
- - Helping others learn
+**Applications, cloud, and delivery**
+
+![Node.js](https://img.shields.io/badge/Node.js-2bbc8a?style=flat&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2bbc8a?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2bbc8a?style=flat&logo=docker&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness.io-2bbc8a?style=flat)
+![Git](https://img.shields.io/badge/Git-2bbc8a?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-2bbc8a?style=flat&logo=gnubash&logoColor=white)
+
+**Development environments**
+
+![Linux](https://img.shields.io/badge/Linux-2bbc8a?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-2bbc8a?style=flat&logo=windows11&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-2bbc8a?style=flat&logo=cursor&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2bbc8a?style=flat&logo=eclipseide&logoColor=white)
+
+## Human languages 🌎
+
+![Spanish](https://img.shields.io/badge/Spanish-Bilingual-2bbc8a?style=flat)
+![Portuguese](https://img.shields.io/badge/Portuguese-Learning-2bbc8a?style=flat)
+![Norwegian](https://img.shields.io/badge/Norwegian-Learning-2bbc8a?style=flat)
+![Afrikaans](https://img.shields.io/badge/Afrikaans-Learning-2bbc8a?style=flat)
+
+## Away from the keyboard ✨
+
+- Ethics and the social impact of technology
+- Whatever my kids are excited about this week
+- Music production
+- Woodworking
+- Thrifting
+- Getting Things Done
+- Helping others learn
+
+## Currently reading 📖
+
+*The Butlerian Jihad* by Brian Herbert and Kevin J. Anderson
